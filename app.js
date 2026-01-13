@@ -139,3 +139,18 @@ let cal = function(a,b){
 }
 
 console.log(cal(10,20))
+
+
+
+
+
+
+
+// Practice Object
+const mobilModel = {
+    'Brand' : 'Apple',
+    'Processor' : 'Bionic A17',
+    'Model' : 'Air17'
+}
+
+console.log(mobilModel.Brand)
