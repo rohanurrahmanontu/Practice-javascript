@@ -1,0 +1,17 @@
+[
+    {
+        "Name" : "Rohanur",
+        "Age" : 25,
+        "Profession" : "AI Engineer"
+    },
+    {
+        "Name" : "Bil Gates",
+        "Age" : 28,
+        "Profession" : "Backend Developer"
+    },
+    {
+        "Name" : "Mark Zukerberg",
+        "Age" : 18,
+        "Profession" : "Product Designer"
+    }
+]
