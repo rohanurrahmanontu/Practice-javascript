@@ -1,0 +1,12 @@
+{
+    "Name" : "Rohanur",
+    "Age" : 25,
+    "Profession" : "AI Engineer",
+    "isFreelancer" : true,
+    "Skills" : ["Python", "N8N","Make"],
+    "PhysicalAttributes" : {
+        "Height" : 5.9,
+        "Weight" : 74,
+        "Eyes" : "Black"
+    }
+}
